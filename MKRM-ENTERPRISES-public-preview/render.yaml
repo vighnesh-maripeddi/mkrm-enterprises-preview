@@ -2,6 +2,7 @@ services:
   - type: web
     name: mkrm-enterprises-preview
     runtime: node
+    rootDir: MKRM-ENTERPRISES-public-preview
     plan: free
     buildCommand: npm install
     startCommand: npm start
