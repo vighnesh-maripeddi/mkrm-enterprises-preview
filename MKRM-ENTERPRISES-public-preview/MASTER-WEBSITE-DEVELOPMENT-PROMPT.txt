@@ -1,0 +1,1184 @@
+# MASTER WEBSITE DEVELOPMENT PROMPT
+## Premium Industrial Metals Sourcing & Trading Platform
+
+### ROLE AND OBJECTIVE
+
+Act as a senior product designer, UX architect, B2B industrial-commerce specialist, full-stack engineer, cybersecurity engineer and business owner.
+
+Design and build a complete, production-oriented website and operational enquiry platform for **[COMPANY NAME]**, an India-based industrial metals sourcing and trading business.
+
+Think like the founder of this business. Every design decision must help establish credibility, generate qualified enquiries, simplify sourcing operations, protect confidential commercial information and support long-term business growth.
+
+This must not be a generic website template or a traditional e-commerce store.
+
+The website must be modern, visually premium, responsive, technically sound, commercially practical and designed for buyers, manufacturers, scrap suppliers, recyclers, procurement teams and international trade enquiries.
+
+Do not create fake content to make the business appear larger or more established than it is.
+
+---
+
+# PART 1 — BUSINESS MODEL
+
+The business initially focuses on sourcing and supplying:
+
+- Refined copper and copper products
+- Copper scrap
+- Aluminium and aluminium scrap
+- Steel and steel scrap
+- Brass, zinc, lead and other metals as operations expand
+
+The company initially operates using a **requirement-led sourcing model**:
+
+1. A buyer submits material specifications, quantity and delivery requirements.
+2. The company reviews the enquiry.
+3. Suitable suppliers and material options are identified.
+4. Specifications, availability, inspection requirements and commercial terms are checked.
+5. A quotation is prepared and sent to the buyer.
+6. Upon agreement, order documentation, payment terms and delivery arrangements are confirmed.
+7. Dispatch and delivery are coordinated according to the agreed transaction structure.
+
+The company does not initially operate its own warehouse. Do not claim that it owns factories, trucks, warehouses, laboratories or material stock.
+
+Direct supplier-to-buyer delivery may be arranged where commercially and operationally appropriate.
+
+The website must distinguish between a **sourcing enquiry**, a **verified available offer** and a **confirmed order**.
+
+The platform should initially serve Indian customers and support international enquiries, without claiming established export operations or international offices.
+
+---
+
+# PART 2 — BRAND IDENTITY AND DESIGN SYSTEM
+
+Create a premium industrial visual identity.
+
+### Brand personality
+
+Professional, dependable, technically competent, transparent, efficient and internationally credible.
+
+Avoid an old-fashioned scrap dealer appearance and avoid exaggerated futuristic designs.
+
+### Colours
+
+- Primary navy: #101F33
+- Copper accent: #B66A3C
+- Background: #F8F9FA
+- White: #FFFFFF
+- Dark text: #202B38
+- Secondary grey: #667085
+
+Use copper orange sparingly for CTAs, highlights and selected icons. Maintain accessible contrast.
+
+### Typography
+
+Use Inter, Manrope or an equivalent modern, highly readable sans-serif typeface.
+
+Use strong but restrained headlines, readable paragraph sizes, clear section headings and consistent line heights.
+
+### Design language
+
+- Spacious layouts
+- Consistent grid system
+- Premium industrial photography
+- Refined borders and subtle shadows
+- Clean cards
+- Limited animations
+- Accessible buttons
+- Responsive tables
+- Clear visual hierarchy
+- Minimal visual clutter
+
+Avoid:
+- Excessive gradients
+- Neon colours
+- Glassmorphism everywhere
+- Spinning 3D objects
+- Auto-playing promotional videos
+- Fake live counters
+- Unnecessary pop-ups
+- Generic shopping-cart interfaces
+
+### Photography direction
+
+Use high-quality photographs of:
+
+- Copper cathodes
+- Copper wire rods
+- Copper coils
+- Bare bright copper scrap
+- Sorted copper tubing scrap
+- Aluminium ingots
+- Aluminium extrusion scrap
+- Steel coils
+- Stainless steel sheets
+- Metal handling and logistics where contextually appropriate
+
+Photographs must be accurate representations of the material category.
+
+Do not use an image of mixed metal scrap to represent certified bare bright copper.
+
+Use consistent cropping and aspect ratios.
+
+Do not label third-party or illustrative photography as company-owned stock, facilities, shipments or operations.
+
+Use appropriately licensed images and meaningful alt text.
+
+---
+
+# PART 3 — WEBSITE STRUCTURE
+
+Create the following public pages:
+
+1. Home
+2. Metals Catalogue
+3. Individual Product Pages
+4. How We Work
+5. Industries We Serve
+6. Quality & Documentation
+7. International Trade
+8. About Us
+9. Contact
+10. Request a Quote
+11. Supplier Enquiry
+12. Frequently Asked Questions
+13. Privacy Policy
+14. Terms of Use
+15. Enquiry & Quotation Disclaimer
+
+The header should contain:
+
+Logo | Metals | How We Work | Industries | About | Contact | Request a Quote
+
+Place additional pages under appropriate dropdowns or in the footer to avoid overcrowding the header.
+
+Add a clearly visible Request a Quote CTA.
+
+Use a sticky header that remains compact while scrolling.
+
+On mobile, provide an accessible hamburger menu and an easily accessible enquiry action.
+
+---
+
+# PART 4 — HOMEPAGE DESIGN
+
+### Section 1: Hero
+
+Create a premium split-layout or full-width hero with authentic industrial metal imagery.
+
+Main headline:
+
+**Metal Supply. Built Around Your Requirements.**
+
+Supporting text:
+
+"Source copper, copper scrap and other industrial metals through a requirement-led supply process. Share your specifications, quantity and delivery location to receive a tailored quotation."
+
+Primary CTA: Request a Quote
+
+Secondary CTA: Explore Metals
+
+Add a subtle line:
+
+"Industrial Metals | Scrap Materials | Requirement-Based Sourcing"
+
+Do not use "World's Leading Supplier", "Guaranteed Lowest Price" or similar unsupported claims.
+
+### Section 2: Metal Categories
+
+Display attractive image cards for:
+
+- Copper
+- Copper Scrap
+- Aluminium
+- Aluminium Scrap
+- Steel
+- Other Metals
+
+Each card should link to its category page.
+
+### Section 3: How We Work
+
+Display four stages:
+
+1. Share Your Requirements
+2. Material Sourcing & Review
+3. Quotation & Confirmation
+4. Delivery Coordination
+
+Each stage should include a simple icon and concise explanation.
+
+### Section 4: Why Work With Us
+
+Focus on the operating approach rather than invented achievements:
+
+- Specification-led enquiries
+- Clear commercial communication
+- Multiple material categories
+- Order-specific sourcing
+- Documentation requirements reviewed per transaction
+- Coordinated quotation and delivery process
+
+Do not claim guaranteed outcomes.
+
+### Section 5: Featured Materials
+
+Show six configurable products with product images, short descriptions and enquiry buttons.
+
+Default price label: "Price on Request".
+
+### Section 6: Industries
+
+Show relevant sectors such as:
+
+- Electrical and cable manufacturing
+- Engineering and fabrication
+- Metal processing
+- Foundries
+- Recycling and secondary metals
+- Industrial manufacturing
+
+Describe these as relevant applications or potential customer sectors, not verified existing customers.
+
+### Section 7: Request a Quotation CTA
+
+Headline:
+
+"Have a Specific Metal Requirement?"
+
+Description:
+
+"Tell us the material, grade, quantity and destination. Our team can review your requirements and discuss sourcing options."
+
+CTA: Submit Your Requirement
+
+### Section 8: Footer
+
+Include company name, actual contact details, catalogue links, business information, legal links and social links only when available.
+
+---
+
+# PART 5 — PRODUCT CATALOGUE
+
+Build a database-driven catalogue, not a hardcoded static list.
+
+Every category and product must be editable from the admin dashboard.
+
+### Category A: Copper Products
+
+- Copper cathodes
+- Copper wire rods
+- Copper rods
+- Copper wire
+- Copper sheets
+- Copper plates
+- Copper strips
+- Copper coils
+- Copper tubes
+- Copper pipes
+- Copper bars
+- Copper busbars
+- Copper profiles
+
+### Category B: Copper Scrap
+
+- Bare bright copper wire
+- No. 1 copper scrap
+- No. 2 copper scrap
+- Copper tubing scrap
+- Copper pipe scrap
+- Copper sheet and offcut scrap
+- Insulated copper wire scrap
+- Copper cable scrap
+- Copper granules
+- Chopped copper wire
+- Mixed copper scrap
+- Copper-bearing industrial scrap
+
+### Category C: Aluminium Products
+
+- Aluminium ingots
+- Aluminium billets
+- Aluminium sheets
+- Aluminium plates
+- Aluminium coils
+- Aluminium extrusions
+- Aluminium rods
+- Aluminium wire
+- Aluminium profiles
+
+### Category D: Aluminium Scrap
+
+- Clean aluminium extrusion scrap
+- Aluminium sheet scrap
+- Aluminium profile scrap
+- Aluminium UBC scrap
+- Aluminium cast scrap
+- Aluminium wire scrap
+- Aluminium turnings
+- Mixed aluminium scrap
+
+### Category E: Steel
+
+- Mild steel sheets
+- Steel plates
+- Hot-rolled coils
+- Cold-rolled coils
+- Galvanized steel products
+- Steel bars and sections
+- Stainless steel sheets
+- Stainless steel coils
+- Stainless steel scrap
+- Carbon steel scrap
+- Heavy melting scrap
+
+### Category F: Other Metals
+
+- Brass products and scrap
+- Zinc ingots and scrap
+- Lead ingots and scrap
+- Bronze and bronze scrap
+- Nickel and other industrial metals, subject to future business capability
+
+These are potential enquiry categories, not claims of current stock.
+
+Allow the administrator to hide any category or product.
+
+### Catalogue filtering
+
+Provide filters for:
+
+- Metal family
+- Refined product / processed product / scrap
+- Product form
+- Grade or alloy where applicable
+- Material condition
+- Application
+- Search keyword
+
+Do not display meaningless filters with no results.
+
+---
+
+# PART 6 — PRODUCT DETAIL PAGE
+
+Each product page must have:
+
+1. Product name
+2. High-quality product image
+3. Short description
+4. Typical industrial applications
+5. Relevant specifications
+6. Common grades or standards, where accurately applicable
+7. Material form and dimensions
+8. Quantity and packaging enquiry options
+9. Inspection and documentation options
+10. Delivery enquiry options
+11. Price on Request
+12. Request a Quote CTA
+13. Related products
+14. Relevant FAQ
+
+For scrap materials, support additional fields:
+
+- Scrap category
+- Material description
+- Estimated metal content if known
+- Insulation or contamination
+- Moisture and foreign materials
+- Mixed or sorted condition
+- Photos
+- Available test or inspection reports
+- Estimated weight
+- Packaging or loading condition
+
+Do not invent purity values or automatically equate a scrap trade name with a guaranteed chemical composition.
+
+Include:
+
+"Material specifications, grade, availability, pricing, documentation and delivery terms are confirmed individually for each enquiry."
+
+The product-specific enquiry button must automatically populate the RFQ form with the selected product.
+
+---
+
+# PART 7 — PRICING STRATEGY
+
+Do not publish fictional prices.
+
+Display:
+
+**Price on Request**
+
+Underneath:
+
+"Quotation based on material specifications, quantity, market conditions and delivery terms."
+
+If indicative reference prices are implemented in the future, they must be clearly separated from binding quotations.
+
+Every indicative price must display:
+
+- Source
+- Metal
+- Grade or benchmark
+- Currency
+- Unit
+- Date and time
+- Relevant disclaimer
+
+Do not automatically generate a commercial selling price from a market benchmark without configured and reviewed pricing logic.
+
+---
+
+# PART 8 — REQUEST A QUOTE SYSTEM
+
+Build a fully functional, secure RFQ workflow.
+
+### Step 1: Select Materials
+
+Allow buyers to:
+
+- Choose one or multiple products
+- Search the catalogue
+- Select grade or specification
+- Enter quantity and unit
+- Indicate one-time or recurring supply
+- Specify desired delivery date
+
+Support kilograms, metric tonnes and appropriate product-specific units.
+
+### Step 2: Technical Requirements
+
+Collect:
+
+- Product grade
+- Material standard, where applicable
+- Purity or chemical composition, if known
+- Dimensions
+- Material condition
+- Scrap contamination details
+- Packaging requirements
+- Inspection requirements
+- Documentation requirements
+- Additional notes
+- Optional supporting files
+
+Only show fields relevant to the selected product type.
+
+### Step 3: Delivery and Commercial Requirements
+
+Collect:
+
+- Delivery country
+- State
+- City
+- Delivery destination
+- Required date
+- Domestic or international transaction
+- Preferred currency
+- Target price, optional
+- Preferred Incoterm, if relevant
+- Any special unloading or handling requirements
+
+### Step 4: Buyer Information
+
+Collect:
+
+- Full name
+- Company name
+- Business email
+- Phone number
+- WhatsApp number, optional
+- Country
+- Business address, optional
+- GSTIN or other business identifier, optional and jurisdiction-appropriate
+- Buyer comments
+
+### Step 5: Review and Submit
+
+Display a review summary before submission.
+
+Validate required fields.
+
+Use clear error messages.
+
+Prevent duplicate submissions where practical.
+
+Apply spam and abuse protection.
+
+Generate a unique enquiry reference after successful database submission.
+
+Display:
+
+"Your enquiry has been received. Reference: [RFQ ID]. We will review the requirements and contact you using the details provided."
+
+Do not promise a quotation within a specific period unless an actual service commitment has been established.
+
+### Enquiry Notifications
+
+Send a confirmation email when an email service is configured.
+
+Notify the internal team of new enquiries.
+
+Never expose administrative notification addresses or email-service secrets unnecessarily.
+
+Do not claim an email was sent if the integration is not configured or delivery failed.
+
+### Buyer Enquiry Status
+
+Internally support:
+
+- New
+- Under Review
+- Sourcing
+- Awaiting Supplier Quote
+- Quotation Prepared
+- Quotation Sent
+- Negotiation
+- Order Confirmed
+- Dispatch Coordination
+- Completed
+- Cancelled
+
+Do not expose sensitive internal statuses or supplier information to buyers.
+
+---
+
+# PART 9 — SUPPLIER ENQUIRY SYSTEM
+
+Create a separate "Supply Materials" or "Become a Supplier" page.
+
+This is for businesses offering materials, not buyers requesting quotations.
+
+Collect:
+
+- Supplier name
+- Company name
+- Email
+- Phone
+- Country and location
+- Material category
+- Product or scrap type
+- Quantity available
+- Grade and specifications
+- Asking price, optional
+- Currency and unit
+- Material photographs
+- Inspection or test reports, optional
+- Loading location
+- Dispatch readiness
+- Recurring or one-time availability
+- Business registration details, optional
+- Additional comments
+
+Show a clear disclaimer that submission does not constitute supplier approval or a purchase commitment.
+
+Store supplier enquiries separately from buyer RFQs.
+
+Require administrative review before creating an approved supplier record.
+
+Do not expose supplier contact details or commercial offers publicly.
+
+---
+
+# PART 10 — HOW WE WORK PAGE
+
+Explain the sourcing process honestly and clearly.
+
+Include:
+
+- Requirement collection
+- Specification review
+- Supplier sourcing
+- Material verification requirements
+- Quotation preparation
+- Commercial agreement
+- Dispatch coordination
+- Documentation and follow-up
+
+Include a clear explanation that sourcing options depend on product specifications, supplier availability and transaction requirements.
+
+Use a simple timeline or process illustration.
+
+Avoid implying that every order follows an identical process or that all inspections are performed in-house.
+
+---
+
+# PART 11 — QUALITY & DOCUMENTATION
+
+Create a dedicated page explaining how quality and documentation requirements are handled.
+
+Include:
+
+- Product specification confirmation
+- Grade and alloy identification
+- Material photographs where appropriate
+- Supplier-provided test certificates where available
+- Third-party inspection arrangements where agreed
+- Weighment and quantity confirmation
+- Packaging and dispatch documentation
+- Commercial invoices
+- Packing lists
+- Applicable origin and customs documents
+
+Explain that documents depend on the product, supplier, destination and agreed transaction terms.
+
+Do not display fabricated certificates.
+
+Do not claim ISO certification, laboratory accreditation or regulatory approvals unless verified and authorized by the administrator.
+
+---
+
+# PART 12 — INTERNATIONAL TRADE PAGE
+
+Create a professional page for international sourcing and supply enquiries.
+
+Include:
+
+- Import and export enquiries
+- Product specifications
+- Quantity and destination
+- Preferred Incoterms
+- Shipment requirements
+- Currency preferences
+- Inspection and documentation requests
+- Contact form for international buyers and suppliers
+
+Use accurate language such as:
+
+"International enquiries are reviewed individually based on product requirements, supplier availability, applicable regulations and logistics arrangements."
+
+Do not claim global warehouses, international subsidiaries, customs capabilities or established shipping routes.
+
+Any actual import/export transaction must be reviewed for applicable registration, product restrictions, customs, environmental and other regulatory requirements.
+
+---
+
+# PART 13 — ABOUT US PAGE
+
+Create an honest, credible About Us page.
+
+Suggested introduction:
+
+"[COMPANY NAME] is an India-based metals sourcing and trading business focused on connecting industrial material requirements with suitable supply options. Our approach emphasizes clear specifications, responsive commercial communication and order-specific sourcing."
+
+Include:
+
+- Business overview
+- Operating approach
+- Product focus
+- Values
+- Buyer and supplier relationships
+- Contact information
+- Verified legal business details when available
+
+Do not invent:
+
+- Founding year
+- Years of experience
+- Team size
+- Turnover
+- Client count
+- Number of countries served
+- Export volume
+- Certifications
+- Partnerships
+
+Make these fields editable and optional.
+
+---
+
+# PART 14 — CONTACT PAGE
+
+Create a clean, professional contact page.
+
+Include:
+
+- Business phone
+- Business email
+- WhatsApp contact
+- City and state
+- Actual office address if approved for publication
+- Working hours if provided
+- Contact form
+- Buyer enquiry link
+- Supplier enquiry link
+
+Do not generate a fictional address or map pin.
+
+If no public office address is provided, show the verified service location or business city only.
+
+Configure WhatsApp with a prefilled message:
+
+"Hello, I would like to enquire about metal sourcing. Please share the details required for a quotation."
+
+Ensure phone and email links work on mobile.
+
+---
+
+# PART 15 — FAQ PAGE
+
+Create useful answers for:
+
+- How do I request a quotation?
+- Can I enquire about multiple materials?
+- Do you supply copper scrap?
+- What information is needed for scrap pricing?
+- Do you offer fixed prices?
+- Can I request a recurring supply?
+- Can I request material inspection?
+- What documents may be available?
+- Can I submit an international enquiry?
+- How are delivery terms decided?
+- Can suppliers submit available materials?
+- Does submitting an enquiry guarantee supply?
+
+Answers must be accurate, conditional and consistent with the actual operating model.
+
+---
+
+# PART 16 — ADMIN DASHBOARD
+
+Build a secure private administrative interface.
+
+### Overview
+
+Show real operational metrics:
+
+- New buyer enquiries
+- Open sourcing requests
+- Supplier enquiries
+- Quotations pending
+- Quotations sent
+- Confirmed orders
+- Follow-ups due
+
+Only show metrics calculated from actual database records.
+
+### Buyer Enquiry Management
+
+Allow administrators to:
+
+- View and search RFQs
+- Filter by material and status
+- Review attached files
+- Add private notes
+- Assign follow-up dates
+- Update enquiry status
+- Record communication history
+- Mark priority
+- Export authorized data
+
+### Supplier Management
+
+Support:
+
+- Supplier profiles
+- Material categories
+- Supplier locations
+- Verification status
+- Supplier quotations
+- Quote validity dates
+- Lead times
+- Relevant documentation
+- Internal notes
+
+### Supplier Quotation Comparison
+
+Provide an internal comparison table showing:
+
+- Supplier
+- Material
+- Grade
+- Quoted quantity
+- Currency
+- Unit price
+- Freight terms
+- Taxes or other cost assumptions
+- Lead time
+- Quote validity
+- Documentation
+- Notes
+
+Keep all supplier commercial information private.
+
+### Buyer Quotation Preparation
+
+Allow an administrator to prepare a professional quotation with:
+
+- Quote number
+- Buyer information
+- Material description
+- Specifications
+- Quantity
+- Currency
+- Unit price
+- Freight and tax treatment
+- Delivery terms
+- Payment terms
+- Validity period
+- Conditions and exclusions
+
+All commercial values must be entered or explicitly approved by authorized personnel.
+
+Do not automatically send quotations without review.
+
+Support PDF generation and email delivery when configured.
+
+### Catalogue Management
+
+Allow authorized administrators to:
+
+- Add and edit categories
+- Add and edit products
+- Upload product images
+- Update specifications
+- Hide products
+- Control featured products
+- Edit SEO metadata
+
+### Site Settings
+
+Provide editable fields for:
+
+- Company name
+- Logo
+- Phone
+- Email
+- WhatsApp
+- Business address
+- Business identifiers
+- Social links
+- Footer information
+- Legal text
+
+---
+
+# PART 17 — DATA ARCHITECTURE
+
+Use a maintainable relational database, such as PostgreSQL through Supabase if appropriate.
+
+Suggested entities:
+
+- Categories
+- Products
+- Product images
+- Product specifications
+- Buyer enquiries
+- Buyer enquiry items
+- Buyer contacts
+- Supplier enquiries
+- Suppliers
+- Supplier quotations
+- Buyer quotations
+- Quotation items
+- Orders
+- Attachments
+- Admin users
+- User roles
+- Internal notes
+- Status history
+- Audit logs
+- Site settings
+
+Use relational keys, timestamps, appropriate indexes and explicit authorization policies.
+
+Store monetary values with appropriate precision and currency.
+
+Do not assume all metals are priced in the same unit.
+
+Separate public product information from private buyer and supplier data.
+
+---
+
+# PART 18 — SECURITY AND PRIVACY
+
+Security is mandatory.
+
+Implement:
+
+- Secure administrator authentication
+- Role-based access controls
+- Database row-level security where supported
+- Server-side authorization checks
+- Input validation
+- Safe file uploads
+- File type and size restrictions
+- Private storage for confidential attachments
+- Rate limiting
+- Spam protection
+- Protection against common injection and scripting vulnerabilities
+- Secure session handling
+- Audit logging for sensitive administrative changes
+- Environment-based secret management
+- HTTPS deployment
+
+Never put database service keys, email API keys or administrative secrets in frontend code.
+
+Do not expose buyer lists, supplier lists, quotations, pricing margins or internal notes through public endpoints.
+
+Implement an appropriate privacy notice and data-retention controls.
+
+Provide data export and deletion workflows where legally and operationally appropriate.
+
+Do not claim compliance certification merely because security controls were implemented.
+
+---
+
+# PART 19 — SEO, PERFORMANCE AND ACCESSIBILITY
+
+Implement:
+
+- Search-friendly URLs
+- Unique page titles
+- Relevant meta descriptions
+- Open Graph metadata
+- XML sitemap
+- Robots configuration
+- Canonical URLs
+- Structured data where applicable and factually accurate
+- Descriptive image alt text
+- Optimized images
+- Lazy loading
+- Responsive layouts
+- Keyboard navigation
+- Accessible form labels
+- Visible focus states
+- Clear form validation
+- Appropriate contrast
+- Error and empty states
+- Custom 404 page
+
+Optimize for relevant search intentions such as copper sourcing, copper scrap enquiries, aluminium sourcing and industrial metal supply.
+
+Do not stuff keywords or make unsupported claims about product availability.
+
+---
+
+# PART 20 — RESPONSIVE DESIGN
+
+Design desktop, tablet and mobile experiences deliberately.
+
+### Desktop
+
+- Clear header
+- Spacious hero
+- Three-column product cards where suitable
+- Sidebar catalogue filters
+- Detailed specification tables
+- Easy-to-scan enquiry forms
+
+### Tablet
+
+- Two-column product grid
+- Compact navigation
+- Adapted filters
+- Readable tables
+
+### Mobile
+
+- Single-column product cards
+- Collapsible filters
+- Large touch targets
+- Sticky or prominent Request a Quote action
+- Mobile-friendly multi-step forms
+- Proper numeric keyboards for quantities and phone numbers
+- No horizontal overflow
+- No obstructive floating elements
+
+Ensure WhatsApp controls do not cover important form buttons.
+
+---
+
+# PART 21 — USER EXPERIENCE DETAILS
+
+Add the following refinements:
+
+- Product breadcrumbs
+- Search suggestions
+- Related products
+- Recently viewed products using privacy-conscious local state where appropriate
+- Clear empty search results
+- Loading indicators
+- Submission progress states
+- Friendly validation messages
+- Enquiry reference numbers
+- Confirmation pages
+- Optional enquiry summary download
+- Consistent contact CTAs
+- Clear distinctions between buyers and suppliers
+- Accessible confirmation and error feedback
+
+Do not force account creation merely to submit an initial RFQ.
+
+Allow buyers to enquire without logging in.
+
+Buyer accounts and quotation history may be introduced later as a separate development phase.
+
+---
+
+# PART 22 — LEGAL AND COMMERCIAL SAFEGUARDS
+
+The website must distinguish clearly between:
+
+- General product information
+- Enquiry submission
+- Non-binding indicative information
+- Formal commercial quotation
+- Accepted order
+
+An RFQ submission does not constitute an order or guarantee of supply.
+
+A product listing does not constitute proof of current stock.
+
+Prices and availability are subject to confirmation.
+
+Product grades and scrap descriptions must be verified against the agreed specifications.
+
+Legal pages must be editable and marked for professional review before launch.
+
+Do not invent GSTIN, IEC, registration details or other identifiers.
+
+---
+
+# PART 23 — FUTURE EXPANSION
+
+Architect the system so it can later support:
+
+- Buyer accounts
+- Supplier portal
+- Approved supplier onboarding
+- Multiple administrators
+- Multi-currency quotations
+- Multiple languages
+- Repeat-order templates
+- Live material availability
+- Verified inventory
+- Order tracking
+- Invoice generation
+- Logistics integrations
+- Accounting and ERP integration
+- CRM integration
+- Market reference pricing
+- Automated follow-up reminders
+- Product catalogue expansion
+- International trade workflows
+
+Do not implement all advanced features immediately if they would compromise the reliability of the initial launch.
+
+---
+
+# PART 24 — TECHNOLOGY AND DELIVERY
+
+Preferred stack:
+
+- React
+- TypeScript
+- Tailwind CSS
+- Accessible reusable UI components
+- Supabase/PostgreSQL for backend and storage, where appropriate
+- Secure server-side functions for privileged operations
+
+Use modular architecture and reusable components.
+
+Do not hardcode company information throughout the application.
+
+Create a central configuration system.
+
+Use database migrations and seed data where necessary.
+
+Mark demo content clearly.
+
+Do not expose demonstration enquiries or fictional business statistics on the public production website.
+
+Implement functional backend workflows, not merely attractive frontend mockups.
+
+If external integrations are unavailable, show an honest setup-required state and document the missing configuration.
+
+---
+
+# PART 25 — REQUIRED TESTING
+
+Before considering the website complete, verify:
+
+1. All navigation links work.
+2. Product categories and filters work.
+3. Product detail pages load correctly.
+4. Product-specific RFQ buttons preselect the right material.
+5. Multiple products can be added to one enquiry.
+6. Enquiries are saved successfully.
+7. Unique enquiry references are generated.
+8. Confirmation pages work.
+9. Supplier submissions are stored separately.
+10. Administrative login is protected.
+11. Unauthorized users cannot access private data.
+12. Supplier quotes remain confidential.
+13. Catalogue editing works.
+14. File uploads are validated and protected.
+15. Forms work on mobile.
+16. Contact and WhatsApp links use real configured details.
+17. Empty, error and loading states work.
+18. Emails are only reported as sent when delivery is actually initiated successfully.
+19. No fake prices, stock, certifications or company claims appear.
+20. The site is ready for real business information to be inserted.
+
+---
+
+# PART 26 — BUILD SEQUENCE
+
+Build in this order:
+
+**Phase 1: Visual Foundation**
+Create the design system, navigation, homepage, footer and responsive layouts.
+
+**Phase 2: Product Experience**
+Build categories, filters, product pages and database-driven catalogue management.
+
+**Phase 3: Commercial Enquiries**
+Implement buyer RFQs, supplier enquiries, file uploads, confirmation pages and notifications.
+
+**Phase 4: Operations**
+Build admin authentication, enquiry management, supplier records, quotation comparison and quotation preparation.
+
+**Phase 5: Credibility and Supporting Pages**
+Complete About, How We Work, Industries, Quality, International Trade, Contact, FAQs and legal pages.
+
+**Phase 6: Security, Testing and Launch Preparation**
+Review access controls, database policies, responsiveness, accessibility, performance, SEO and end-to-end workflows.
+
+At every phase, prioritize correct functionality over decorative effects.
+
+---
+
+# FINAL INSTRUCTIONS TO THE WEBSITE-BUILDING AI
+
+Think like the owner of a new but ambitious metals trading company.
+
+Build a website that a professional procurement manager would take seriously.
+
+The user must be able to:
+
+1. Understand what the company does.
+2. Find the relevant metal or scrap category.
+3. Review the material information.
+4. Submit a detailed requirement.
+5. Receive a valid enquiry reference.
+6. Contact the company.
+7. Understand that sourcing, pricing and delivery are subject to confirmation.
+
+The administrator must be able to:
+
+1. Review buyer enquiries.
+2. Manage supplier offers.
+3. Compare sourcing options.
+4. Prepare commercial quotations.
+5. Track follow-ups.
+6. Manage the catalogue.
+7. Update company details.
+8. Operate securely without exposing confidential information.
+
+Do not substitute mock functionality for a real implementation.
+
+Do not fabricate credibility.
+
+Do not create a shopping cart or instant checkout unless explicitly requested in a later phase.
+
+Deliver a premium, efficient, trustworthy, scalable industrial metals sourcing platform with a clear path from initial enquiry to managed commercial transaction.
